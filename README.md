@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @oriol81
-- 👀 I’m interested in computers, technology and 
+- 👀 I’m interested in computers, technology and languages.
 - 🌱 I’m currently learning Python and all the stuff related to it (which I didn't think there were so many things).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Got an email and an IG account, but let me land here first.
+- 📫 How to reach me: @oriolstark on IG.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I've watched GoT but my IG handle is not related to this, just a coincidence. It's my surname in German.
 
 <!---
 oriol81/oriol81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
